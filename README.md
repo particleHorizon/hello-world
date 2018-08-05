@@ -14,3 +14,7 @@ test for fun
 my b1 work
 my new code
 test for fun
+
+int main(){
+return 0;
+}
