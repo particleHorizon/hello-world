@@ -9,3 +9,7 @@ b1b1b1
 test for fun
 my b1 work
 test for fun
+
+int main(){
+return 0;
+}
