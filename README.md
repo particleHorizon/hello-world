@@ -1,5 +1,5 @@
 void f(){
-printf("Hello");
+printf("Hellob1");
 }
 
 # hello-world
